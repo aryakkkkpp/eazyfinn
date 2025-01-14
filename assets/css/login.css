@@ -1,0 +1,13 @@
+.bg-login-image {
+  background: url(../img/bg-login.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.text-brand-warning {
+  color: #fed641 !important;
+}
+
+.fa-44x {
+  font-size: 4.4em;
+}

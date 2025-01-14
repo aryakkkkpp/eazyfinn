@@ -1,0 +1,70 @@
+.text-brand-warning {
+  color: #fed641 !important;
+}
+
+.fa-fw-normal {
+  font-weight: normal;
+}
+
+.form-control-file {
+  height: calc(1.9em + 0.75rem + 2px);
+}
+
+.btn-link {
+  font-weight: 400;
+  color: #5a98cd;
+  text-decoration: none;
+}
+
+.btn-link:hover {
+  color: #5a98cd;
+  text-decoration: underline;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #5a98cd;
+  background-color: #fff;
+  border: 1px solid #dddfeb;
+}
+
+.page-link:hover {
+  z-index: 2;
+  color: #5a98cd;
+  text-decoration: none;
+  background-color: #eaecf4;
+  border-color: #dddfeb;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color:#5a98cd;
+  border-color: #5a98cd;
+}
+
+.dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #5a98cd;
+}
+
+.table-detail {
+  margin-bottom: 0;
+}
+
+.table-detail-border-top {
+  border-top: 0 !important;
+}
+
+.table-detail-border-bottom {
+  border-bottom: 1px solid #e3e6f0;
+}
+
+.foto-preview {
+  border-radius: 1.2rem !important;
+}

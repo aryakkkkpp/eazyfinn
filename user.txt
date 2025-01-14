@@ -1,0 +1,7 @@
+Hak Akses 	: Admin
+Username 	: admin
+Password 	: admin
+
+Hak Akses 	: User
+Username 	: user
+Password 	: user
